@@ -1,0 +1,46 @@
+Curso Midudev
+
+00:00:00 - Introducción
+00:01:12 - ¿Por qué aprender PHP?
+00:05:04 - Lo bueno de PHP
+00:05:33 - ¿Cómo instalar PHP?
+00:07:18 - Mentira y Brutales ventajas de PHP
+00:08:50 - Creando proyecto desde cero
+00:09:11 - Editores para PHP
+00:10:18 - Extensiones de PHP
+00:11:35 - Creando nuestro primer Archivo de PHP
+00:11:46 - ¿Cómo saber si tengo PHP y algunos comandos?
+00:13:07 - Etiquetas especiales para PHP (IMPORTANTE)
+00:14:22 - Creando un entorno de desarrollo (live-server)
+00:15:07 - Importante sobre echo
+00:15:45 - ¿Y si quiero mostrar algo en la consola?
+00:16:37 - Mezclar HTML, CSS y JavaScript
+00:18:26 - Alternativa a ‘php echo’
+00:19:06 - Puedes crear muchas etiquetas
+00:19:19 - ¿Cómo crear variables en PHP y restricciones?
+00:21:36 - Tipos de datos
+00:25:37 - PHP es Gradual (var_dump & gettype)
+00:30:05 - type-casting
+00:34:15 - Interpolación de cadenas
+00:38:12 - ¿PHP es lento?
+00:41:37 - Constantes
+00:45:34 - IF en PHP
+00:47:41 - Sintaxis alternativa para trabajar con los IF
+00:49:48 - Ternarias
+00:50:36 - Match, mejor que Switch
+00:56:48 - Arrays
+00:59:07 - Foreach()
+01:00:50 - Índice del foreach
+01:01:30 - ¿hay linter para PHP?
+01:03:06 - Crear un diccionario
+01:04:45 - Tu primer aplicación
+01:05:24 - ¿Cómo llamar a un API?
+01:09:13 - Agregando Pico (framwork de CSS)
+01:09:36 - Estructura HTML
+01:11:12 - 2da Forma de llamar a una API
+01:12:28 - Creando estructura HTML, CSS y llamadas a la API
+01:16:42 - Deploy de nuestra Aplicación
+01:17:00 - Creando repositorio
+01:17:11 - Darle apoyo para que pase ❤️
+01:17:49 - ¿Cómo hacer un deploy?
+01:22:45 - ¿Quieres más de PHP?
